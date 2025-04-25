@@ -45,7 +45,7 @@ Here are a few things I’ve worked on — more coming soon!
 I’m actively open to collaborations, internships, and opportunities in data science, particularly in sectors where data can improve lives.
 
 - [LinkedIn](https://www.linkedin.com/in/kanu-calista-chioma)  
-- **Email:** kanucalista02@gmail.com  
+- **Email:** kanucalista02@gmail.com
 
 ---
 
