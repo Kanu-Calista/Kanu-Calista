@@ -1,15 +1,14 @@
 # Hey there, I'm Calista 
-**Aspiring Data Scientist | Health Data Enthusiast**
+**Data Scientist | Health Data Analyst | Business Analyst**
 
 --- 
 
 Welcome to my GitHub! I’m a curious and passionate learner with a background in healthcare and a growing love for data science. I enjoy exploring complex problems, building models, and uncovering insights that drive innovation — especially in health-focused domains.
 
 ## A Bit About Me  
-🎓 Pharmacology Undergraduate  
 📊 Data Science Fellow at ALT School Africa  
 🧬 HackBio Intern — exploring the world of bioinformatics  
-🔍 Passionate about health data, research, and impact-driven analytics  
+🔍 Passionate about health data, business, research, and impact-driven analytics  
 
 ---
 
